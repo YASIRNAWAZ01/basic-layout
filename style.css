@@ -1,0 +1,55 @@
+.maein-div {
+    margin: auto;
+    padding: 0%;
+    align-items: center;
+    display: inline-flex;
+    text-align: center;
+    width: 100%;
+    height: 730px;
+}
+.img-1 {
+    width: 70%;
+    height:450px;
+    border: double 2px  black;
+    border-radius: 30px;
+
+}
+.img-2 {
+    width: 70%;
+    height:450px;
+    border: double 2px  black;
+    border-radius: 30px;
+
+}
+.img-3 {
+    width: 70%;
+    height:450px;
+    border-radius: 30px;
+    border: double 2px  black;
+}
+h3 {
+    position: relative;
+    bottom: 455px;
+    font-size: 30px;
+    color: rgb(6, 65, 65);
+}
+.background {
+    position: absolute;
+    width: 98%;
+    padding: 0%;
+    margin: auto;
+    height: 705px;
+    left: 15px;
+}
+.bg-img {
+position: absolute;
+z-index: -1;
+width: 100%;
+height: 700px;
+    right: -1px;
+    
+}
+.h1 {
+ background-color: burlywood;
+}
+
